@@ -26,5 +26,5 @@
 
 * * *
 
-![](https://github-profile-trophy.vercel.app/?username=onekissandoneshot)
+![](https://github-profile-trophy.vercel.app/?username=OneKissAndOneShot)
 
