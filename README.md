@@ -1,5 +1,16 @@
 ### 👋
+
 ![](https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;%22!dlroW%2C%20olleH%22&center=true&size=30)
+
+* * *
+
+🔭 I’m currently working on Web SaaS application
+
+🌱 I’m currently learning to be a better man
+
+📫 How to reach me: 🐧654109707
+
+⚡ Fun fact: coding | paly game
 
 * * *
 
@@ -17,13 +28,3 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=onekissandoneshot)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
