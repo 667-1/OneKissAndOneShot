@@ -2,9 +2,8 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;%22!dlroW%2C%20olleH%22&center=true&size=30)
 
-* * *
 🔭 I’m currently working on Web SaaS application
-* * *
+
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=OneKissAndOneShot&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
 <br>
