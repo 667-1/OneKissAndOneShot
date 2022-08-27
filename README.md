@@ -1,4 +1,4 @@
-### 👋 Come on
+### 👋
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;%22!dlroW%2C%20olleH%22&center=true&size=30)
 
